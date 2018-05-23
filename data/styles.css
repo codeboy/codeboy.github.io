@@ -11,6 +11,8 @@
 }
 .image {
 }
+.button {
+}
 .icon {
 }
 .text_field {
@@ -18,7 +20,7 @@
   text-align:left;
 }
 .link_button {
-  font-family:'Roboto';
+  font-family:'Roboto-Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   color:#169BD5;
@@ -27,7 +29,7 @@
   color:#FFFFFF;
 }
 .paragraph {
-  font-family:'Roboto';
+  font-family:'Roboto-Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -87,6 +89,8 @@
 }
 .text_link1 {
   color:#0000FF;
+}
+.flow_shape {
 }
 .shape1 {
 }
