@@ -20,7 +20,7 @@
   text-align:left;
 }
 .link_button {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   color:#169BD5;
@@ -28,8 +28,11 @@
 .primary_button {
   color:#FFFFFF;
 }
+.link_button1 {
+  color:#169BD5;
+}
 .paragraph {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -97,6 +100,8 @@
   color:#0000FF;
 }
 .flow_shape {
+}
+.connector {
 }
 .shape1 {
 }
